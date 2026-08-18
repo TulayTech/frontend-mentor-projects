@@ -26,6 +26,7 @@ Do not present these projects as paid client work or as original TuTech visual d
 | [Dine restaurant website](./projects/dine-restaurant-website/) | Approved locally; not merged or deployed | Frontend Mentor premium challenge |
 | [Skilled e-learning landing page](./projects/skilled-elearning-landing-page/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
 | [Pod request access landing page](./projects/pod-request-access-landing-page/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
+| [Fylo dark theme landing page](./projects/fylo-dark-theme-landing-page/) | Complete locally; awaiting owner review | Frontend Mentor challenge |
 
 ## Repository structure
 
@@ -33,5 +34,6 @@ Do not present these projects as paid client work or as original TuTech visual d
 projects/
 ├── dine-restaurant-website/
 ├── skilled-elearning-landing-page/
-└── pod-request-access-landing-page/
+├── pod-request-access-landing-page/
+└── fylo-dark-theme-landing-page/
 ```
