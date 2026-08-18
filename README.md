@@ -31,6 +31,7 @@ Do not present these projects as paid client work or as original TuTech visual d
 | [Creative agency single-page site](./projects/creative-single-page-site/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
 | [Modern Art Gallery website](./projects/art-gallery-website/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
 | [Single-page Developer Portfolio](./projects/single-page-developer-portfolio/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
+| [Space Tourism website](./projects/space-tourism-website/) | Complete locally; awaiting owner review | Frontend Mentor challenge |
 
 ## Repository structure
 
@@ -43,5 +44,6 @@ projects/
 ├── loopstudios-landing-page/
 ├── creative-single-page-site/
 ├── art-gallery-website/
-└── single-page-developer-portfolio/
+├── single-page-developer-portfolio/
+└── space-tourism-website/
 ```
