@@ -1,0 +1,2 @@
+const socials = [['Bluesky', 'icon-bluesky.svg'], ['Instagram', 'icon-instagram.svg'], ['TikTok', 'icon-tiktok.svg']]
+export function Footer() { return <footer><div className="shell footer-inner"><p>Made with <span aria-label="love">❤️</span> and <span aria-label="avocado">🥑</span></p><nav aria-label="Social media">{socials.map(([label, icon]) => <a key={label} href="https://www.frontendmentor.io/" aria-label={label}><img src={`/assets/images/${icon}`} alt="" /></a>)}</nav></div></footer> }
