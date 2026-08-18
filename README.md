@@ -32,6 +32,7 @@ Do not present these projects as paid client work or as original TuTech visual d
 | [Modern Art Gallery website](./projects/art-gallery-website/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
 | [Single-page Developer Portfolio](./projects/single-page-developer-portfolio/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
 | [Space Tourism website](./projects/space-tourism-website/) | Complete locally; awaiting owner review | Frontend Mentor challenge |
+| [Coffeeroasters subscription site](./projects/coffeeroasters-subscription-site/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
 
 ## Repository structure
 
@@ -45,5 +46,6 @@ projects/
 ├── creative-single-page-site/
 ├── art-gallery-website/
 ├── single-page-developer-portfolio/
-└── space-tourism-website/
+├── space-tourism-website/
+└── coffeeroasters-subscription-site/
 ```
