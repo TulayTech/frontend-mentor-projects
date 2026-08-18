@@ -30,6 +30,7 @@ Do not present these projects as paid client work or as original TuTech visual d
 | [Loopstudios landing page](./projects/loopstudios-landing-page/) | Complete locally; awaiting owner review | Frontend Mentor challenge |
 | [Creative agency single-page site](./projects/creative-single-page-site/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
 | [Modern Art Gallery website](./projects/art-gallery-website/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
+| [Single-page Developer Portfolio](./projects/single-page-developer-portfolio/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
 
 ## Repository structure
 
@@ -41,5 +42,6 @@ projects/
 ├── fylo-dark-theme-landing-page/
 ├── loopstudios-landing-page/
 ├── creative-single-page-site/
-└── art-gallery-website/
+├── art-gallery-website/
+└── single-page-developer-portfolio/
 ```
