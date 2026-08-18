@@ -34,6 +34,7 @@ Do not present these projects as paid client work or as original TuTech visual d
 | [Space Tourism website](./projects/space-tourism-website/) | Complete locally; awaiting owner review | Frontend Mentor challenge |
 | [Coffeeroasters subscription site](./projects/coffeeroasters-subscription-site/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
 | [Healthy Recipe Finder](./projects/recipe-finder-website/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
+| [Audiophile e-commerce website](./projects/audiophile-ecommerce-website/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
 
 ## Repository structure
 
@@ -49,5 +50,6 @@ projects/
 ├── single-page-developer-portfolio/
 ├── space-tourism-website/
 ├── coffeeroasters-subscription-site/
-└── recipe-finder-website/
+├── recipe-finder-website/
+└── audiophile-ecommerce-website/
 ```
