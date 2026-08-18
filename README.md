@@ -19,11 +19,15 @@ Use this note in each project README and TuTech case study:
 
 Do not present these projects as paid client work or as original TuTech visual designs. Do not redistribute premium design files, Figma files, or raw starter packages.
 
-## Planned structure
+## Projects
+
+| Project | Status | Source |
+| --- | --- | --- |
+| [Dine restaurant website](./projects/dine-restaurant-website/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
+
+## Repository structure
 
 ```text
 projects/
-└── <challenge-slug>/
+└── dine-restaurant-website/
 ```
-
-No challenges have been added yet. The first project will be selected with the owner before implementation begins.
