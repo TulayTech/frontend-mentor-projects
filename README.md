@@ -21,20 +21,22 @@ Do not present these projects as paid client work or as original TuTech visual d
 
 ## Projects
 
-| Project | Status | Source |
-| --- | --- | --- |
-| [Dine restaurant website](./projects/dine-restaurant-website/) | Approved locally; not merged or deployed | Frontend Mentor premium challenge |
-| [Skilled e-learning landing page](./projects/skilled-elearning-landing-page/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
-| [Pod request access landing page](./projects/pod-request-access-landing-page/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
-| [Fylo dark theme landing page](./projects/fylo-dark-theme-landing-page/) | Complete locally; awaiting owner review | Frontend Mentor challenge |
-| [Loopstudios landing page](./projects/loopstudios-landing-page/) | Complete locally; awaiting owner review | Frontend Mentor challenge |
-| [Creative agency single-page site](./projects/creative-single-page-site/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
-| [Modern Art Gallery website](./projects/art-gallery-website/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
-| [Single-page Developer Portfolio](./projects/single-page-developer-portfolio/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
-| [Space Tourism website](./projects/space-tourism-website/) | Complete locally; awaiting owner review | Frontend Mentor challenge |
-| [Coffeeroasters subscription site](./projects/coffeeroasters-subscription-site/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
-| [Healthy Recipe Finder](./projects/recipe-finder-website/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
-| [Audiophile e-commerce website](./projects/audiophile-ecommerce-website/) | Complete locally; awaiting owner review | Frontend Mentor premium challenge |
+Each folder is connected to its own Vercel project. Production deployments build with `npm run build`, publish `dist`, and redeploy from the `main` branch.
+
+| Project | Status | Live demo | Source |
+| --- | --- | --- | --- |
+| [Dine restaurant website](./projects/dine-restaurant-website/) | Deployed and verified | [Open demo](https://dine-restaurant-website-sable.vercel.app) | Frontend Mentor premium challenge |
+| [Skilled e-learning landing page](./projects/skilled-elearning-landing-page/) | Deployed and verified | [Open demo](https://skilled-elearning-landing-page-silk.vercel.app) | Frontend Mentor premium challenge |
+| [Pod request access landing page](./projects/pod-request-access-landing-page/) | Deployed and verified | [Open demo](https://pod-request-access-landing-page-azure.vercel.app) | Frontend Mentor premium challenge |
+| [Fylo dark theme landing page](./projects/fylo-dark-theme-landing-page/) | Deployed and verified | [Open demo](https://fylo-dark-theme-landing-page-six-chi.vercel.app) | Frontend Mentor challenge |
+| [Loopstudios landing page](./projects/loopstudios-landing-page/) | Deployed and verified | [Open demo](https://loopstudios-landing-page-one-pi.vercel.app) | Frontend Mentor challenge |
+| [Creative agency single-page site](./projects/creative-single-page-site/) | Deployed and verified | [Open demo](https://creative-single-page-site-nu.vercel.app) | Frontend Mentor premium challenge |
+| [Modern Art Gallery website](./projects/art-gallery-website/) | Deployed and verified | [Open demo](https://art-gallery-website-five-eta.vercel.app) | Frontend Mentor premium challenge |
+| [Single-page Developer Portfolio](./projects/single-page-developer-portfolio/) | Deployed and verified | [Open demo](https://single-page-developer-portfolio-seven.vercel.app) | Frontend Mentor premium challenge |
+| [Space Tourism website](./projects/space-tourism-website/) | Deployed and verified | [Open demo](https://space-tourism-website-phi-eight.vercel.app) | Frontend Mentor challenge |
+| [Coffeeroasters subscription site](./projects/coffeeroasters-subscription-site/) | Deployed and verified | [Open demo](https://coffeeroasters-subscription-site-flame.vercel.app) | Frontend Mentor premium challenge |
+| [Healthy Recipe Finder](./projects/recipe-finder-website/) | Deployed and verified | [Open demo](https://recipe-finder-website-delta.vercel.app) | Frontend Mentor premium challenge |
+| [Audiophile e-commerce website](./projects/audiophile-ecommerce-website/) | Deployed and verified | [Open demo](https://audiophile-ecommerce-website-flax.vercel.app) | Frontend Mentor premium challenge |
 
 ## Repository structure
 
